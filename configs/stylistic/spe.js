@@ -12,11 +12,6 @@ module.exports = Object.freeze({
         'SwitchCase': 1
       }
     ],
-    // enforces operators to be placed at the end of the line
-    '@stylistic/operator-linebreak': [
-      'error',
-      'before'
-    ],
     // enforces a natural sorting of object keys
     'sort-keys': [
       'error',
