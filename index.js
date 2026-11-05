@@ -16,7 +16,7 @@ module.exports = {
       spe: require('./configs/stylistic/spe.js')
     },
     tseslint: {
-      base: require('./configs/stylistic/base.js')
+      base: require('./configs/tseslint/base.js')
     }
   }
 };
