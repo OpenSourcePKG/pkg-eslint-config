@@ -47,11 +47,6 @@ module.exports = Object.freeze({
       'error',
       'never'
     ],
-    // enforces operators to be placed at the end of the line
-    '@stylistic/operator-linebreak': [
-      'error',
-      'after'
-    ],
     // enforces consistent empty line padding within blocks
     '@stylistic/padded-blocks': [
       'error',
