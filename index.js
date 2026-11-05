@@ -3,7 +3,7 @@
 const {
   name,
   version
-} = require('package.json');
+} = require('./package.json');
 
 module.exports = {
   meta: {

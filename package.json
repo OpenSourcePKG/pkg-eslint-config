@@ -5,6 +5,7 @@
   },
   "description": "Shared repository for eslint config files.",
   "license": "UNLICENSED",
+  "main": "./src/index.js",
   "name": "pkg-eslint-config",
   "type": "commonjs",
   "version": "1.0.0"
