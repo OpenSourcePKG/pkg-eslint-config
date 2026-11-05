@@ -1,0 +1,11 @@
+{
+  "author": "PKG",
+  "dependencies": {
+    "@types/node": "^24.19.2"
+  },
+  "description": "Shared repository for eslint config files.",
+  "license": "UNLICENSED",
+  "name": "pkg-eslint-config",
+  "type": "commonjs",
+  "version": "1.0.0"
+}
