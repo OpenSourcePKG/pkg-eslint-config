@@ -1,2 +1,2 @@
 # pkg-eslint-config
-This repository contains the shared eslint configuration files of our developers.
+This repository contains the shared eslint configuration files of our developers for usage in ESLint > v10.
